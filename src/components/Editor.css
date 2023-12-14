@@ -1,0 +1,33 @@
+.write{
+  margin: 5%;
+ font-weight: bolder;
+ font-size: 26px;
+}
+body{
+  text-align: center;
+  margin: 17%;
+  background-color: rgb(104, 93, 70);
+  color: rgb(123, 153, 153);
+}
+.int{
+  height: 36px;
+  width: 195px;
+  margin-right: 14%;
+}
+.imple{
+  background-color: black;
+  line-height: 96px;
+  overflow: auto;
+  color: white;
+  margin-top: 6%;
+  font-size: 22px;
+  border-radius: 10px;
+}
+h1{
+  font-size: 45px;
+}
+.note{
+  margin: 5%;
+  font-weight: bolder;
+  font-size: 35px;
+}
